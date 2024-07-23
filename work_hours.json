@@ -1,0 +1,21 @@
+[
+    {"worked_date": "01.07.2024", "worked_time": "08:32"},
+    {"worked_date": "02.07.2024", "worked_time": "08:38"},
+    {"worked_date": "03.07.2024", "worked_time": "08:28"},
+    {"worked_date": "04.07.2024", "worked_time": "08:32"},
+    {"worked_date": "05.07.2024", "worked_time": "08:28"},
+
+    {"worked_date": "08.07.2024", "worked_time": "08:28"},
+    {"worked_date": "09.07.2024", "worked_time": "08:34"},
+    {"worked_date": "10.07.2024", "worked_time": "08:27"},
+    {"worked_date": "11.07.2024", "worked_time": "08:33"},
+    {"worked_date": "12.07.2024", "worked_time": "08:46"},
+
+    {"worked_date": "15.07.2024", "worked_time": "08:28"},
+    {"worked_date": "16.07.2024", "worked_time": "08:45"},
+    {"worked_date": "17.07.2024", "worked_time": "08:35"},
+    {"worked_date": "18.07.2024", "worked_time": "08:37"},
+    {"worked_date": "19.07.2024", "worked_time": "08:11"},
+
+    {"worked_date": "22.07.2024", "worked_time": "08:38"}
+]
